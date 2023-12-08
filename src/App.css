@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.recharts-default-legend {
+  display: none !important;
+  overflow: hidden !important;
+  height: 0px !important;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Ubuntu&display=swap");
+
+.inter {
+  font-family: "Inter", sans-serif;
+}
